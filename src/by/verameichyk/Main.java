@@ -20,7 +20,6 @@ public class Main {
             }
             mass[i] = scan.nextInt();
         }
-
         int min = mass[0];
         int max = mass[0];
         int maxLenght = 0;
